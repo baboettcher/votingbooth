@@ -1,0 +1,9 @@
+key/ 
+
+node_modules/
+
+zzz_TEMP_NOTES.js
+
+.DS_Store
+
+firebase.js
